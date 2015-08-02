@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FinanzApp</string>
+    <string name="title_activity_show_map">Karte</string>
+    <string name="title_activity_list">FinanzApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">Detail</string>
+
+    <string name="errtext_import_failed">Importieren fehlgeschlagen!</string>
+    <string name="label_adresse">Adresse</string>
+    <string name="label_hours">Öffnungszeiten</string>
+    <string name="label_tel">Telefon</string>
+    <string name="label_show_map">Auf der Karte anzeigen</string>
+
+</resources>
